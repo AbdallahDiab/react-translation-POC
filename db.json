@@ -1,0 +1,30 @@
+{
+  "en_auth": {
+    "auth_key1": "key1Trans",
+    "auth_key2": "key2Trans",
+    "auth_user_name": "KAREEM hello"
+  },
+  "en_home": {
+    "welcome_message": "Welcome to my application"
+  },
+  "en_footer": {
+    "footer_message": "This is the footer"
+  },
+  "en_common": {
+    "loading": "En - Chargement..."
+  },
+  "fr_common": {
+    "loading": "Chargement..."
+  },
+  "fr_home": {
+    "welcome_message": "Bienvenue dans mon application"
+  },
+  "fr_footer": {
+    "footer_message": "Ceci est le pied de page"
+  },
+  "fr_auth": {
+    "auth_key1": "key1Trans",
+    "auth_key2": "key2Trans",
+    "auth_user-name": "User Name"
+  }
+}
